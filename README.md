@@ -1,4 +1,4 @@
-
+ **<img src="C:\Users\Sumit Shirke\Downloads\medpocimg" width="48" align="left">**
 
 **Project Title: Hospital Medical Files Management App (MEDPOCKET)**
 
