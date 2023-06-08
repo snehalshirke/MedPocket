@@ -1,8 +1,14 @@
 **Project Title: Hospital Medical Files Management App (MEDPOCKET)**
+
+
 **Description**
+
+
 The Hospital Medical Files Management App is an Android application developed using Java that facilitates the process of sending medical reports, OPD (Outpatient Department) forms, and IPD (Inpatient Department) forms directly to the patients' smartphones. This app aims to streamline communication between hospital staff and patients by eliminating the need for physical paperwork and enabling convenient access to medical documents.
 
 **Features**
+
+
 Secure User Authentication: Users can register and log in securely to access the app.
 Patient Profile Management: Patients can create and manage their profiles, providing necessary personal information and medical history.
 Document Upload: Hospital staff can upload and attach medical reports, OPD forms, and IPD forms to the respective patient's profile.
@@ -13,6 +19,8 @@ Search Functionality: Patients can search for specific documents using keywords 
 Offline Access: Patients can access their previously downloaded documents even when offline.
 
 **Technologies Used**
+
+
 Android Studio: Integrated Development Environment (IDE) for Android app development.
 Java: Programming language for Android app development.
 Firebase: Backend-as-a-Service (BaaS) platform for user authentication, database storage, and push notifications.
@@ -22,6 +30,8 @@ Firebase Cloud Messaging (FCM): Push notification service for notifying users ab
 Material Design: Android UI/UX design guidelines for creating an intuitive and visually appealing user interface.
 
 **Installation**
+
+
 Clone the project repository from GitHub: [repository URL]
 Open the project in Android Studio.
 Set up the necessary Firebase project and integrate Firebase SDKs.
@@ -29,6 +39,8 @@ Configure the project with the required API keys and credentials.
 Build and run the app on an Android emulator or a physical device.
 
 **Usage**
+
+
 Launch the app on your Android device.
 Register an account or log in using your credentials.
 Complete your patient profile, providing the necessary personal information and medical history.
@@ -40,6 +52,8 @@ Download and view documents on your smartphone.
 Enjoy the convenience of having your medical files accessible at your fingertips.
 
 **Contributing**
+
+
 Thank you for considering contributing to the Hospital Medical Files Management App! If you would like to contribute, please follow these steps:
 Fork the repository.
 Create a new branch for your feature or bug fix.
@@ -48,4 +62,6 @@ Push your changes to your fork.
 Submit a pull request with a detailed description of your changes.
 
 **Contact Information**
+
+
 For any questions or inquiries, please contact snehal shirke at **snehalshirke7148@gmail.com**.
